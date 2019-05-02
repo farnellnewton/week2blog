@@ -1,6 +1,6 @@
 h1 {
   font-family: sans-serif;
-  color: blue;
+  color: white;
 }
 
 .column {
@@ -13,4 +13,16 @@ h1 {
 img {
   width: 350px;
   height: 200px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.coral {
+  background-color: coral;
 }
