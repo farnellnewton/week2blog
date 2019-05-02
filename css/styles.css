@@ -1,0 +1,29 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.different {
+  font-style: italic;
+  border: 5px solid red;
+}
+
+img {
+  float: right;
+}
+
+.column {
+  width: 500px;
+  float: left;
+  border: 5px blue;
+  padding: 10px;
+  margin: 10px;
+}
+
+.my-class {
+  border: 2px solid green;
+  padding: 4px;
+}
