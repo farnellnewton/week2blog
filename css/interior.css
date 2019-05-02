@@ -1,0 +1,16 @@
+h1 {
+  font-family: sans-serif;
+  color: blue;
+}
+
+.column {
+  width: 330px;
+  float: left;
+  padding: 30px;
+  margin: 10px;
+}
+
+img {
+  width: 350px;
+  height: 200px;
+}
