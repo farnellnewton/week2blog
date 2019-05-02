@@ -9,6 +9,8 @@ img {
   float: right;
   background-color: coral;
   border: 4px solid black;
+  margin: 20px;
+  padding: 5px;
 }
 
 .column {
